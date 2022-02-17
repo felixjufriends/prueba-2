@@ -23,5 +23,7 @@ if Motor3 == 180:
 if Motor3 == 270:
     print("correcto a 270°")
 if Motor3 == 360:
-    print("correcto a 36000000000000000000°") 
+    print("correcto a 36000000000000000000°")
+    print("theeeeeeeee")
+     
 
