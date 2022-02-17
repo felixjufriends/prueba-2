@@ -15,5 +15,13 @@ if Motor2 == 1:
 if Motor2 == 0:
     print("esta cerrado")
 
-  
+#Programa Motor3
+if Motor3 == 90:
+    print("correcto a 90°")
+if Motor3 == 180:
+    print("correcto a 180°")
+if Motor3 == 270:
+    print("correcto a 270°")
+if Motor3 == 360:
+    print("correcto a 360°") 
 
